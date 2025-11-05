@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Food Banner Generator",
+  "description": "A full-stack application for managing and generating food promotional banners using AI. It features an admin panel for CRUD operations and a public gallery to display the banners.",
+  "requestFramePermissions": []
+}
